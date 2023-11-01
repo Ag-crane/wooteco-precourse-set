@@ -1,0 +1,8 @@
+[submodule "1st-baseball"]
+	path = 1st-baseball
+	url = https://github.com/Ag-crane/woowacourse-pre-1st.git
+	branch = Ag-crane
+[submodule "2nd-racingcar"]
+	path = 2nd-racingcar
+	url = https://github.com/Ag-crane/woowacourse-pre-2nd.git
+	branch = Ag-crane
